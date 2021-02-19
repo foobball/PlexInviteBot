@@ -4,13 +4,12 @@
 A simple bot that makes inviting people through Discord easier.
 
   
-## Invite people through commands
+## Invite manually through commands
 <img  src='https://media.discordapp.net/attachments/803420577540603944/812355628017647656/unknown.png'>
 
 <img  src='https://media.discordapp.net/attachments/803420577540603944/812355709429743626/unknown.png'>
 
 ## Automatically invite people when they send a message to a specific channel
-
 Video example: https://i.gyazo.com/10561ad7466ce6dbee92fa5a87c7a1ff.mp4
 (*The bot deleted the message, but my client glitched out lol*)
 
