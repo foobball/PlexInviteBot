@@ -11,11 +11,9 @@ A simple bot that makes inviting people through Discord easier.
 
 ## Automatically invite people when they send a message to a specific channel
 
+Video example: https://i.gyazo.com/10561ad7466ce6dbee92fa5a87c7a1ff.mp4
 (*The bot deleted the message, but my client glitched out lol*)
 
-<figure  class="video_container">
-<iframe  src="https://i.gyazo.com/10561ad7466ce6dbee92fa5a87c7a1ff.mp4"  frameborder="0"  allowfullscreen="true">  </iframe>
-</figure>
 DMs the author with their invite link
 
 <img  src='https://media.discordapp.net/attachments/803420577540603944/812356479796641792/unknown.png'>
