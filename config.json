@@ -1,0 +1,27 @@
+{
+    "bot_token": "AAAAAAAAAABBBBBBBBBBBBBBBBBCCCCCCCCCCCCCCC",
+    "prefix": "!",
+
+    "accounts": [{
+        "bonjour": "server 1 name",
+        "token": "plextoken",
+        "machineid": "aaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbb",
+        "capacity": 100,
+        "id": 1
+    }, {
+        "bonjour": "server 2 name",
+        "token": "plextoken",
+        "machineid": "aaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbb",
+        "capacity": 100,
+        "id": 2
+    }],
+    "inv_account": 0,
+
+    "verify_channel_id": "803399347470991401",
+    "logs_channel_id": "803430175752585237",
+
+    "welcome_msg": {
+        "enabled": true,
+        "msg": "Welcome to **Rando Plex Server**"
+    }
+}
