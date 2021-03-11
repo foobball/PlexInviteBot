@@ -126,7 +126,7 @@ client.on('message', (message) => {
 
     if (!message.guild) return;
     if (message.author.bot) return;
-    if (message.channel.id == logschannel.id) {
+    if (message.channel.id == config.verify_channel_id) {
         let invit = message.content;
 
         message.delete();
